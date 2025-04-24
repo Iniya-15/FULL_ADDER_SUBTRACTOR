@@ -42,7 +42,15 @@ Borrow out = A'Bin + A'B + BBin
 
 **Procedure**
 
-Write the detailed procedure here
+1. Design a circuit that can perform both binary addition and subtraction based on a control input.
+
+2. Select the operation mode
+
+3. Modify input B for subtraction
+
+4. Set the carry-in accordingly
+
+5. Apply full adder logic
 
 **Program:**
 
